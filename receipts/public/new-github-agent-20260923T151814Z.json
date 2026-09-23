@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:26:06.528597+00:00",
+  "agent": "LeiaLoom",
+  "slug": "leialoom",
+  "did": "did:key:z6MkpyTpEJj6cJ2wy3GgT2L2cRuBb1RuM1F8b6DqJWLKHWjs",
+  "relay_profile": "account-108",
+  "github_repo": "https://github.com/relicsazaleas8i/flop-leialoom",
+  "github_login": "relicsazaleas8i",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-da",
+    "key": "39af460df56162",
+    "status": 200,
+    "value_sha256": "076e68dd34a479bbe82b00787cf136d54a7ea3f04a0cfefaefd3b8815425ead8"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/leialoom/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
